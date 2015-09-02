@@ -1,0 +1,18 @@
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKataTests\bin\Debug\VideoStoreKataTests.dll
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKataTests\bin\Debug\VideoStoreKataTests.pdb
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKataTests\obj\Debug\VideoStoreKataTests.dll
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKataTests\obj\Debug\VideoStoreKataTests.pdb
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKataTests\bin\Debug\nunit.framework.dll
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKataTests\bin\Debug\VideoStoreKata.dll
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKataTests\bin\Debug\VideoStoreKata.pdb
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKataTests\bin\Debug\nunit.framework.xml
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKataTests\obj\Debug\VideoStoreKataTests.csprojResolveAssemblyReference.cache
+E:\katas\VideoStoreKata\VideoStoreKataTests\bin\Debug\VideoStoreKataTests.dll
+E:\katas\VideoStoreKata\VideoStoreKataTests\bin\Debug\VideoStoreKataTests.pdb
+E:\katas\VideoStoreKata\VideoStoreKataTests\bin\Debug\nunit.framework.dll
+E:\katas\VideoStoreKata\VideoStoreKataTests\bin\Debug\VideoStoreKata.dll
+E:\katas\VideoStoreKata\VideoStoreKataTests\bin\Debug\VideoStoreKata.pdb
+E:\katas\VideoStoreKata\VideoStoreKataTests\bin\Debug\nunit.framework.xml
+E:\katas\VideoStoreKata\VideoStoreKataTests\obj\Debug\VideoStoreKataTests.csprojResolveAssemblyReference.cache
+E:\katas\VideoStoreKata\VideoStoreKataTests\obj\Debug\VideoStoreKataTests.dll
+E:\katas\VideoStoreKata\VideoStoreKataTests\obj\Debug\VideoStoreKataTests.pdb

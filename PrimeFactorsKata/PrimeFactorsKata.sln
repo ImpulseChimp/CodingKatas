@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsKataTests", "PrimeFactorsKataTests\PrimeFactorsKataTests.csproj", "{2963E3CA-7779-4A5F-8870-73807B19D55A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F70878D0-AC35-46A7-B30A-4F09C4F2E871}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsKata", "PrimeFactorsKata\PrimeFactorsKata.csproj", "{0B355730-34B8-432D-958E-556AEEE80EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2963E3CA-7779-4A5F-8870-73807B19D55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2963E3CA-7779-4A5F-8870-73807B19D55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2963E3CA-7779-4A5F-8870-73807B19D55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2963E3CA-7779-4A5F-8870-73807B19D55A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B355730-34B8-432D-958E-556AEEE80EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B355730-34B8-432D-958E-556AEEE80EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B355730-34B8-432D-958E-556AEEE80EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B355730-34B8-432D-958E-556AEEE80EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

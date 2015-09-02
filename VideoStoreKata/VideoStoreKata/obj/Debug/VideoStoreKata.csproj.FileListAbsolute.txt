@@ -1,0 +1,9 @@
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKata\bin\Debug\VideoStoreKata.dll
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKata\bin\Debug\VideoStoreKata.pdb
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKata\obj\Debug\VideoStoreKata.dll
+C:\Users\cwood\Documents\Visual Studio 2013\Projects\VideoStoreKata\VideoStoreKata\obj\Debug\VideoStoreKata.pdb
+E:\katas\VideoStoreKata\VideoStoreKata\bin\Debug\VideoStoreKata.dll
+E:\katas\VideoStoreKata\VideoStoreKata\bin\Debug\VideoStoreKata.pdb
+E:\katas\VideoStoreKata\VideoStoreKata\obj\Debug\VideoStoreKata.dll
+E:\katas\VideoStoreKata\VideoStoreKata\obj\Debug\VideoStoreKata.pdb
+E:\katas\VideoStoreKata\VideoStoreKata\obj\Debug\VideoStoreKata.csprojResolveAssemblyReference.cache
