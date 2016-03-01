@@ -1,0 +1,7 @@
+D:\Dev\LinqToObjects-Christopher\LinqToObjects-Christopher\bin\Debug\LinqToObjects-Christopher.dll
+D:\Dev\LinqToObjects-Christopher\LinqToObjects-Christopher\bin\Debug\LinqToObjects-Christopher.pdb
+D:\Dev\LinqToObjects-Christopher\LinqToObjects-Christopher\bin\Debug\Linq.dll
+D:\Dev\LinqToObjects-Christopher\LinqToObjects-Christopher\bin\Debug\Linq.pdb
+D:\Dev\LinqToObjects-Christopher\LinqToObjects-Christopher\obj\Debug\LinqToObjects-Christopher.csprojResolveAssemblyReference.cache
+D:\Dev\LinqToObjects-Christopher\LinqToObjects-Christopher\obj\Debug\LinqToObjects-Christopher.dll
+D:\Dev\LinqToObjects-Christopher\LinqToObjects-Christopher\obj\Debug\LinqToObjects-Christopher.pdb
