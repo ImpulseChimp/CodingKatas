@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>JavaScript Tutorial</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+    <body>
+        <div id="title-container">
+            <h1>Game of Life</h1>
+        </div>
+        <div id="content-container">
+            <div id="controls-container">
+                <div id="game-of-life-statistics">
+                    <div><label>Round:</label><span id="round-counter">0</span></div>
+                    <div><label>Alive:</label><span id="current-alive-cell-counter">0</span></div>
+                    <div><label>Birthed:</label><span id="birthed-cell-counter">0</span></div>
+                    <div><label>Killed:</label><span id="killed-cell-counter">0</span></div>
+                </div>
+                <button id="start-button">Start</button>
+                <button id="step-button">Step</button>
+                <button id="stop-button">Stop</button>
+                <button id="reset-button">Reset</button>
+
+                <div id="grid-options">
+                    <div>Select Grid Size</div>
+                    <select id="grid-selector">
+                      <option value="default"></option>
+                      <option value="5x5">5x5</option>
+                      <option value="10x10">10x10</option>
+                      <option value="25x25">25x25</option>
+                    </select>
+                    <button id="generate-board">Generate Board</button>
+                </div>
+            </div>
+            <div id="game-of-life-board"></div>
+        </div>
+    </body>
+    <footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+        <script src="js/gameOfLife.js"></script>
+    </footer>
+    
+</html>
+
+
+
+
+
+
+

@@ -1,0 +1,135 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#title-container {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+#title-container h1 {
+    margin: 0 auto;
+}
+
+#content-container {
+    position: relative;
+    width: 1100px;
+    margin: 0 auto;
+}
+
+#game-of-life-statistics {
+    display: block;
+    margin: 15px auto;
+    width: 90%;
+}
+
+#game-of-life-statistics div {
+    width: 100%;
+    height: 25px;
+}
+
+#game-of-life-statistics div label {
+    float: left;
+}
+
+#game-of-life-statistics div span {
+    float: right;
+}
+
+#controls-container {
+    width: 250px;
+    height: 450px;
+    display: inline-block;
+    border: solid 1px black;
+    border-right: none;
+    top: 0;
+    float: left;
+}
+
+#grid-options {
+    margin-top: 20px;
+    width: 100%;
+    height: 150px;
+}
+
+#grid-options div {
+    width: 90%;
+    height: 25px;
+    margin: 0 auto;
+}
+
+#controls-container button {
+    width: 90%;
+    height: 40px;
+    display: block;
+    margin: 7px auto;
+}
+
+#grid-selector {
+    width: 90%;
+    height: 25px;
+    display: block;
+    margin: 0 auto;
+}
+
+#game-of-life-board {
+    width: 800px;
+    height: 800px;
+    display: inline-block;
+    border: solid 1px black;
+    background-color: #EBE8E9;
+}
+
+#game-of-life-board:hover {
+    cursor: pointer;
+}
+
+.block {
+    outline-offset: -1px;
+    outline: solid 1px #EBE8E9;
+    margin: -2px 0px;
+    padding: 0;
+    display: inline-block;
+}
+
+.selected {
+    background-color: greenyellow;
+}
+
+button {
+  display: inline-block;
+  margin: 0 10px 0 0;
+  font-size: 22px;
+  font-family: "Bitter",serif;
+  line-height: 1.8;
+  vertical-align: bottom;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  color: #fff;
+  background-color: #6496c8;
+  text-shadow: -1px 1px #417cb8;
+  border: none;
+}
+
+button:focus {
+  outline: none
+}
+
+button.hover {
+  background-color: #346392;
+  text-shadow: -1px 1px #27496d;
+}
+
+button:active {
+  background-color: #27496d;
+  text-shadow: -1px 1px #193047;
+}
